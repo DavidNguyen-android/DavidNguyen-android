@@ -6,11 +6,13 @@ I have 5 years of experience in mobile programming.
 
 My Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat-square&logo=kotlin)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=dart&logoColor=0052d6)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=0052d6)
+
+![Flutter](https://img.shields.io/badge/-Flutter-ffffff?style=flat-square&logo=flutter&logoColor=0052d6)
+![Dart](https://img.shields.io/badge/-Dart-ffffff?style=flat-square&logo=dart&logoColor=0052d6)
+![IOS](https://img.shields.io/badge/-IOS-ffffff?style=flat-square&logo=ios&logoColor=0052d6)
 
 Database
 
