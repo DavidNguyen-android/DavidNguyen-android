@@ -2,6 +2,8 @@ Welcome to Nguyen Phuoc Hai's GitHub
 
 Software Enginner at Hoang Trung Son company.
 
+I have 5 years of experience in mobile programming.
+
 My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
